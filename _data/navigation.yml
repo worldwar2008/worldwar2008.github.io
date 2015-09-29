@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: Home
+  url: /
+  excerpt:
+  image:
+
+- title: Alg
+  url: /alg/
+
+- title: DataSci
+  url: /datasci/
+  
+
+- title: Python
+  url: /python/
+
+- title: Hadoop
+  url: /hadoop/
+
+- title: Spark
+  url: /spark/
+
+- title: Other
+  url: /other/
