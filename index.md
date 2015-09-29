@@ -3,9 +3,9 @@ layout: archive
 permalink: /
 title: "Latest Posts"
 image:
-    feature: cover.jpg
+    feature: Eclipse-Danjon-moon-demo_S_Bob-King.jpg
     credit: Hubber  high resolution photo
-    creditlink: http://www.universetoday.com/wp-content/uploads/2010/02/The-Majestic-Sombrero-Galaxy-M104.jpg
+    creditlink: http://i0.wp.com/www.universetoday.com/wp-content/uploads/2015/09/Eclipse-Danjon-moon-demo_S_Bob-King.jpg
 ---
 
 <div class="tiles">
