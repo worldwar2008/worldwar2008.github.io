@@ -1,3 +1,4 @@
-* 采用emacs进行文章的撰写
-** 注意的事项
-** 个性化设置
+* what
+** where
+** how
+ my name is guoqiang
