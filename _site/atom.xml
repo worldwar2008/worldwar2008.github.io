@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>worldwar2008's Tech Blog</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+    <icon>/apple-touch-icon-precomposed.png</icon>
+  <subtitle>Collection of what I think and overcome</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/" rel="alternate" type="text/html"/>
+  <updated>2015-09-29T16:07:14+08:00</updated>
+  <id>/</id>
+  <author>
+    <name>worldwar2008(郭强)</name>
+    <uri>/</uri>
+    <email>worldwar2008@126.com</email>
+  </author>
+
+  
+  
+</feed>
