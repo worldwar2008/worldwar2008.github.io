@@ -1,4 +1,15 @@
+---
+layout: article
+title:  "利用emacs的org-mode文章转换为md，更方便的写博客"
+categories: other
+toc: false
+ads: true
+#image:
+#    teaser: /teaser/default.jpg
+---
+
 <div id="table-of-contents">
+
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
