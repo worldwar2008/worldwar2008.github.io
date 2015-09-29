@@ -5,7 +5,7 @@ categories: python
 toc: true
 ads: true
 image:
-    teaser: /teaser/default.jpg
+    teaser: /teaser/python.jpg
 ---
 
 
