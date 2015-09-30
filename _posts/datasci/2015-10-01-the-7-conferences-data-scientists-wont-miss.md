@@ -1,0 +1,119 @@
+---
+layout: article
+title:  "the-7-conferences-data-scientists-wont-miss"
+categories: datasci
+toc: true
+ads: true
+#image:
+    #teaser: /teaser/defalut.jpg
+---
+
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgheadline1">1. Strata</a></li>
+<li><a href="#orgheadline2">2. Predictive Analytics World</a></li>
+<li><a href="#orgheadline3">3. useR!</a></li>
+<li><a href="#orgheadline4">4. IBM Insights</a></li>
+<li><a href="#orgheadline5">5. Joint Statistical Meetings</a></li>
+<li><a href="#orgheadline6">6. IEEE International Conference on Data Mining</a></li>
+<li><a href="#orgheadline7">7. KDD Conferences</a></li>
+<li><a href="#orgheadline8">8. The Conference Map</a></li>
+</ul>
+</div>
+</div>
+
+Data science is one of today's fastest growing and most volatitle professions,
+and there's no better way to stay up<sub>to</sub><sub>date</sub> one the latest findings than by attending industry conferences.
+
+Galit Shmule, Professor of bussiness analytics at NTHU, said her one piece of advice for data scientists just stated is 
+to,"Attend a conference or two, see what people are working on, what are the challenges, and what's the atmosphere"
+
+And there are a ton of these events out there. KDNuggets posts a massive list of conferences and events,
+What's the big data maintains a similar list, and then there are blog posts like 48
+Big Data & Cloud Computing Events and Conference You Should Attend. But how do you choose?
+
+That’s the question I had. So I reached out to five data scientists to find out what conferences they won’t be missing in the coming months.
+
+Kirk Borne, Principal Data Scientist at Booz Allen Hamilton and board member of Soft10 and SYNTASA
+Amy Heineike, former Director of Mathematics at Quid and author of Data Scientists at Work
+Gregory Piatetsky-Shapiro, President and Editor of KDnuggets and co-founder of SIGKDD and KDD Conferences.
+Hadley Wickham, Chief Scientist at RStudio and Professor of Statistics at Rice University
+Lillian Pierson, Founder of Data-Mania and author of Data Science for Dummies
+
+# Strata<a id="orgheadline1"></a>
+
+The Strata + Hadoop World conferences, put on by O’Reilly and Cloudera, 
+may be the most popular and established data conferences in the world. 
+Earlier this year, President Barack Obama gave the keynote for the San Jose conference via video. How’s that for a speaker lineup?
+
+Amy Heineike, who spoke at the event last year, recommends Strata because, “It’s a really great opportunity to meet a load of interesting people.” Strata + Hadoop world also got votes of approval from Gregory Piatetsky-Shapiro and Kirk Borne.
+
+# Predictive Analytics World<a id="orgheadline2"></a>
+
+Gregory Piatetsky-Shapiro recommends Predictive Analytics World (PAW). PAW has six conferences coming up in NY, DC, London, Berlin, San Francisco, and Chicago.
+
+Here’s a list of upcoming keynote speakers:
+
+-   Chesley Richards, CDC Deputy Director of Public Health Scientific Services
+-   Mark Peterson, Division Chief for USAID
+-   Jennifer Shasky Calvery, Director of Financial Crimes Enforcement Network
+-   Catherine Templeton, Former Director of the South Carolina Dept of Health and Environmental Control
+
+PAW also got a vote from Kirk Borne for being a “smaller, cozier conference.” And if small and cozy is what you’re looking for in an event, Borne also recommends the Wolfram Data Summit, DataDrivenBusiness.com conferences, and Datanami’s annual Leverage Big Data conference. “I am also looking forward to a new one this year: The Data Science Conference,” says Kirk. The Data Science Conference bills itself as “The first and only vendor-free, sponsor-free, and recruiter-free data science conference.”
+
+# useR!<a id="orgheadline3"></a>
+
+“UseR is the yearly gathering of R users. Next year it’s going to be at Stanford and it coincides with John Chambers 75th birthday, so it’s going to be big!” says Hadley Wickman. The annual R User conference is “the main meeting of the international R user and developer community.” In other words, if you use R, this conference is a can’t-miss.
+
+Hadley says:
+“Sessions are packed with people tackling interesting data problems with R, and many present packages so you can immediately use what they’ve learned. The presenters and audience are incredibly diverse: people come from all over the world, and tackle all sorts of problems.”
+The 2015 event happened in July, but stay tuned here for details on the 2016 event.
+
+# IBM Insights<a id="orgheadline4"></a>
+
+Lillian Pierson and Kirk Borne both recommended the IBM Insights conference. Pierson recommends this event for the story-telling, “The opening sessions of IBM Insight are incredible. I learned so much about what’s happening on the forefront of my field just in those short 1.5 hour sessions. The stories told were simply fascinating.” That’s easy to believe when you check out the lineup for this year’s event (Coming up Oct. 23!)
+
+-   Aaron Levie, CEO, Cofounder and Chairman at Box
+-   David Kenny, Chairman and CEO at The Weather Company
+-   Nancy Bailey, Vice President of IT business Partners at The Boeing Company
+-   Chris Moody, Vice President of Data Strategy at Twitter
+
+# Joint Statistical Meetings<a id="orgheadline5"></a>
+
+“JSM is the biggest gathering of statisticians (6,000+!) in the world,” says Wickman. He offers a word of warning that it can be a bit overwhelming with 50 parallel tracks to choose from, and the quality of talks can be highly variable. But he says the event is still worth it:
+
+“For statisticians, or data scientists looking to sharpen their stats skills, this event is still a must: it’s the best place to learn about the latest in stat research, and more and more talks feature R packages. There are also plenty of sessions on teaching data science and on how it’s used in industry.”
+The next event is happening July 2016 in Chicago.
+
+# IEEE International Conference on Data Mining<a id="orgheadline6"></a>
+
+The IEEE International Conference on Data Mining (ICDM) claims to be the “world’s premier research conference in data mining,” which is why Kirk Borne recommends this conference for any hard-core data science or machine learning enthusiast.
+
+The event is coming up November 14-17, happening in Atlantic City, New Jersey. This year’s speaker lineup includes:
+
+-   Prof. Robert F. Engle, Nobel Prize for Economics, 2003; NAS
+-   Prof. Michael I. Jordan, Pehong Chen Distinguished Professor
+-   Dr. Lada Adamic, Data Scientist at Facebook
+
+And if this sounds like the just the kind of event you’re into, Kirk also recommends SIAM Data Mining, IEEE/ACM Big Data Computing, and the KDD Conferences (more info on this event in the next section). For data mining practitioners interested in events with greater specialization, Kirk suggests the annual IEEE eScience conference series, XLDB.org workshops, and the annual SSDBM.org conferences.
+
+# KDD Conferences<a id="orgheadline7"></a>
+
+“OK, I am biased,” Piatetsky-Shapiro says, “I founded these conferences back in 1989.” Personal bias aside, there’s a reason this conference has stuck around for over 20 years. The annual ACM SIGKDD Conference is a forum for data mining researchers and practitioners from academia, industry, and government.
+
+While next year’s keynotes have yet to be announced, here’s a list from last year to give you a taste of what to expect:
+
+-   Ronny Kohavi, Distinguished Engineer & General Manager at Microsoft
+-   Hugh Durrant-Whyte, Professor and ARC Federation Fellow at The University of Sydney
+-   Daphne Koller, President and Co-founder of Coursera
+-   Susan Athey, The Economics of Technology Professor at Stanford Graduate School of Business
+
+# The Conference Map<a id="orgheadline8"></a>
+
+If you’re interested in taking the expert’s advice, we’ve created a map of their conference recommendations for the end of 2015 into 2016.
+If none of these events are close by, don’t worry. Find another conference that you can get to, and show up. “I am sure that many data science conferences are great, because the field itself is great and is occupied by many great minds and awesome people,” says Kirk Borne. “It is almost impossible to have anything but a brilliantly useful data science conference.”
+
+<https://blog.rjmetrics.com/2015/09/29/the-7-conferences-data-scientists-wont-miss/>
