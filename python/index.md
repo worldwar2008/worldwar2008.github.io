@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Latest Posts"
+title: "Latest Posts in *Python*"
 ---
 
 <div class="tiles">
