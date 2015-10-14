@@ -46,3 +46,15 @@ sqoop import --append --connect jdbc:mysql://192.168.20.118:3306/test --username
 注意：--target-dir /user/hive/warehouse/userinfos2   可以用  --hive-import --hive-table userinfos2 进行替换
 
 ** sqoop help import : common arguments
+| argu                               | description                                                 |
+| --connect <jdbc-uri>               | Specify JDBC connect string                                 |
+| --connection-manager <class-name>  | Specify connection manager class to use                     |
+| --driver <class-name>              | Manually specify JDBC driver class to use                   |
+| --hadoop-home <dir>                | Overrite $HADOOP_HOME                                       |
+| --help                             | Print usage instructions                                    |
+| -P                                 | Read password from console                                  |
+| --password <password>              | Set authentication password                                 |
+| --username <username>              | Set authentication username                                 |
+| --verbose                          | Print more information while working                        |
+| --connection-param-file <filename> | Optional properties file that provide connection parameters |
+|                                    |                                                             |
