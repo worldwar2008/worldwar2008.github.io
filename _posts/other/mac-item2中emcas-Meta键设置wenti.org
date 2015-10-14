@@ -1,0 +1,13 @@
+** Mac iTerm 中 Emacs Meta 键的设置问题
+已经在emacs的配置文件中加入了
+(setq mac-command-modifier 'meta)
+(setq mac-control-modifier 'control)
+(setq mac-option-modifier 'alt)
+为什么还是不行？在自带的终端内就可以？该如何设置？谢谢
+
+- 用 Aquamacs 或者禁用掉 Option 键输入特殊字符的功能：
+ http://stackoverflow.com/a/16019737/851344 试试看！
+
+- 不知道LZ说的是不是iTerm2，iTerm2 的话在 "Preferences" -> "Profiles"
+  -> "your Profile" -> "Keys" -> 界面的右下角有关于 left/right option
+  key 的映射配置，改成 +Esc 就可以了 /目前本人就是采用了这种方法/
