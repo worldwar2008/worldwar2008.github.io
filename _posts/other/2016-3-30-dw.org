@@ -1,0 +1,47 @@
+* 数据仓库建设
+** 如何解决多数据源（不同客户）的问题？
+*** 问题1：customer可能会有不同类型的数据源：
+- 云存储：亚马逊:s3
+- 数据库：MySql，NoSQL
+- APIs: Facebook, SalesForce and etc
+
+*** 问题2：多数据集之间需要join
+
+*** 传统解决办法：
+- 数据复制到数据仓库
+- 在复制之前需要提前创建好schema
+
+*** 传统方法面临的问题：
+- 数据移动：成本太高、耗时；原来数据跟新时会造成不一致
+- 需要提前定义主题：不同的需求下面很难去改动schema
+
+** Spark解决方案
+*** 从数据源上解耦合
+- 利用亚马逊S3 和 非HDFS形式
+*** 直接从数据源直接读
+- 消除数据复制的需求
+*** scheme在读的时候定义
+- sparksql
+
+** 在数据整合完了之后的数据转换
+*** 调度生产任务工作流用notebooks或者jars包来完成
+*** 创建pipelines
+*** 监控结果
+** 性能优化
+- 用parquet格式存储数据
+- 数据集分区
+- spark caching （jvm、ssd）
+- 以parquet格式存储聚合数据
+** 可视化
+*** notebooks
+- 内建画图功能
+- r语言的画图工具ggplot以及python的画图包matplotlib
+- d3 可视化
+** 安装管理
+*** 加密
+- ssl
+- s3 encryption
+*** 用户管理
+ACLs
+*** notebooks 读写操作管理
+*** admin users
