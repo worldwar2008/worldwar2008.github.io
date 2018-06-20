@@ -1,5 +1,5 @@
-*  写多进程的方法
-** 进程池
+** 写多进程的方法
+*** 进程池
 如果要启动大量的子进程，可以用进程池的方式批量创建子进程：
 
 #+BEGIN_SRC python
@@ -24,9 +24,10 @@ if __name__=='__main__':
     print('All subprocesses done.')
 
 #+END_SRC
+
 对Pool对象调用join()方法会等待所有子进程执行完毕，调用join()之前必须先调用close()，调用close()之后就不能继续添加新的Process了。
 
-** 非进程池
+*** 非进程池
 #+BEGIN_SRC python
 #!/bin/env python
 from multiprocessing import Process
